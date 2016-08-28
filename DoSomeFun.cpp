@@ -15,5 +15,8 @@ int main() {
     std::cout << "Hellossssssssssss, Worlds This is my first programme!" << std::endl;
     std::cout << "Hellossssssssssss, Worlds This is my first programme!" << std::endl;
     std::cout << "Hellossssssssssss, Worlds This is my first programme!" << std::endl;
+
+    // This is the merged code
+
     return 0;
 }
